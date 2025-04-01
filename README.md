@@ -25,10 +25,6 @@ Meteora é um projeto de e-commerce fictício desenvolvido como parte do curso d
 - Modal de sucesso no envio de formulário
 - Footer com links úteis
 
-## 📸 Preview
-
-![preview da loja](./path/to/preview-image.png) <!-- opcional, se quiser colocar print do site -->
-
 ## 🚀 Como visualizar
 
 Você pode visualizar o projeto acessando o arquivo `index.html` diretamente no navegador, ou hospedá-lo em alguma plataforma como GitHub Pages ou Vercel.
