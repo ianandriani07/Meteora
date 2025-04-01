@@ -27,7 +27,7 @@ Meteora é um projeto de e-commerce fictício desenvolvido como parte do curso d
 
 ## 🚀 Como visualizar
 
-Você pode visualizar o projeto acessando o arquivo `index.html` diretamente no navegador, ou hospedá-lo em alguma plataforma como GitHub Pages ou Vercel.
+Você pode visualizar o projeto acessando o arquivo `index.html` diretamente no navegador, ou no github pages [Meteora](https://ianandriani07.github.io/Meteora/)
 
 ## 📚 Créditos
 
